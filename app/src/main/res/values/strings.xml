@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="info">En la era digital, las compras en línea se han convertido en una opción conveniente y popular para adquirir productos, desde ropa hasta accesorios. Sin embargo, para garantizar una experiencia de compra satisfactoria, es crucial conocer y registrar nuestras tallas de manera precisa. Aquí te explicamos por qué:</string>
+<string name="info2">1. Ajuste Perfecto:
+Conocer tus medidas exactas es fundamental para encontrar ropa que te quede bien. Las tallas pueden variar significativamente entre diferentes marcas y fabricantes, por lo que tener un registro de tus medidas te ayuda a seleccionar la talla correcta y evitar problemas como ropa demasiado ajustada o suelta.</string>
+    <string name="info3">2. Evitar Devoluciones:
+Registrar tus tallas te ayuda a reducir la necesidad de devolver productos. Las devoluciones pueden ser un proceso tedioso y costoso, además de consumir tiempo. Al conocer tus medidas, puedes tomar decisiones informadas y minimizar la posibilidad de tener que devolver o intercambiar artículos.</string>
+    <string name="info4">3. Compras Más Eficientes:
+Tener un registro de tus tallas facilita el proceso de compra en línea. Puedes hacer selecciones más rápidas y precisas, lo que ahorra tiempo y reduce el riesgo de errores. Esto también es útil cuando compras en línea para diferentes personas, ya que puedes registrar las tallas de familiares o amigos.</string>
+    <string name="info5">4. Ahorro de Tiempo y Dinero:
+Al conocer tus tallas exactas, puedes evitar la necesidad de comprar y devolver varios artículos, lo que se traduce en ahorro de dinero en costos de envío y en la compra de productos innecesarios. Además, reduces el tiempo que pasas buscando la ropa adecuada.</string>
+    <string name="info6">5. Experiencia de Compra Personalizada:
+Registrar tus medidas te permite recibir recomendaciones personalizadas de productos que se ajusten mejor a tu cuerpo. Muchas tiendas en línea utilizan esta información para sugerir artículos que se adapten a tus preferencias y medidas, mejorando tu experiencia de compra.</string>
+    <string name="info7">Evitar fumar y limitar el consumo de alcohol</string>
+    <string name="info8">Utilizar métodos de cocción que precisen poca grasa, como plancha, horno o papillote</string>
+    <string name="info9">Reducir el uso de frituras, salsas grasas y rebozados</string>
+
+</resources>

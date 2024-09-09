@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605184922534",
+    "project_id": "notificationsfirebase-test",
+    "storage_bucket": "notificationsfirebase-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605184922534:android:315d3c7339456f1b15b567",
+        "android_client_info": {
+          "package_name": "com.example.practica1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRv9o5VwwjQYz8F558hBaK5S5YUzde2P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
